@@ -1,0 +1,12 @@
+REFORMAS EN GENERAL - WEB LISTA PARA PUBLICAR
+
+1) Cuando tengáis dominio, buscad y reemplazad en index.html, robots.txt y sitemap.xml:
+      https://www.TU-DOMINIO.es
+   por vuestro dominio real (por ejemplo https://www.reformasengeneral.es).
+
+2) Subid TODO el contenido de esta carpeta (index.html, img/, favicon, robots.txt, sitemap.xml)
+   a la raíz del alojamiento. Netlify Drop (app.netlify.com/drop) permite arrastrar la carpeta y listo.
+
+3) Dad de alta el dominio en Google Search Console y enviad sitemap.xml.
+
+4) Pendiente antes de publicar: aviso legal, política de privacidad y cookies (con nombre o razón social y NIF del titular).
