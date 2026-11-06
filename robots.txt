@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.TU-DOMINIO.es/sitemap.xml
+Sitemap: https://colas-a.github.io/Reformas-en-general/sitemap.xml
